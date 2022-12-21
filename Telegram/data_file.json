@@ -1,0 +1,3101 @@
+{
+    "access_id": {
+        "447774407": "Третяк Мар'яна",
+        "1303789717": "Панфаміров Олександр",
+        "469928997": "Ткаченко Віталій",
+        "5592045418": "Басалаєва Альона",
+        "5358753377": "Данканич Вікторія",
+        "5542127161": "Семенович Еріка",
+        "1209980707": "Чіка Галина",
+        "207451670": "Верес Тарас",
+        "1561573511": "Старченко Дмитро",
+        "633573991": "Павленко Маргарита",
+        "581548281": "Тхор Павло",
+        "450933189": "Джоракулиєв Расул",
+        "357649249": "Дзюбик Яна",
+        "491057971": "Терманіні Мустафа",
+        "5282200089": "Йонаш Яна",
+        "164889095": "Пшоннік Володимир",
+        "559112826": "Беляєва Ірина",
+        "1857012708": "Третьяков Олександр",
+        "1208472773": "Левчун Микола",
+        "5319644879": "Лаутнер Людмила",
+        "5596574124": "Сусяк Олег"
+    },
+    "project_all": {
+        "Jeweller": {
+            "anaNAS": [
+                "Ajax, NVR.003.PWB.001v1_DIP",
+                "Ajax, NVR.003.MBR.001v4_DIP"
+            ],
+            "Button": [
+                "Ajax, PBJ.003.MBR.001v5_868 Mhz_DIP",
+                "Ajax, PBJ.903.MBR.001v0 (9XX)_DIP"
+            ],
+            "CombiProtect": [
+                "Ajax, CP_001.601.000v3_DIP",
+                "Ajax, CP_M_v4c_Combi_Motion Plus_DIP",
+                "Ajax, CP_M_v4c_Combi_Motion Plus (9XX)_DIP"
+            ],
+            "DoorProtect": [
+                "Ajax, DoorProtect v.8a_868 Mhz_DIP",
+                "Ajax, DP.011.MBR.001v3_DIP",
+                "Ajax, DP.001.MBR.001v9 (9XX)_DIP"
+            ],
+            "DoorProtect Plus": [
+                "Ajax, DoorProtect Plus_ v.9_868 Mhz_DIP",
+                "Ajax, DPP.001.MBR.001v9 (9XX)_DIP"
+            ],
+            "DualCurtain Outdoor": [
+                "Ajax, DCO.001.PIR.001v4_DIP",
+                "Ajax, DCO.001.MBR.001v5_DIP",
+                "Ajax, DCO.001.MBR.001v5 (9XX)_DIP"
+            ],
+            "DoubleButton": [
+                "Ajax, PBD.001.MBR.001v2_DIP"
+            ],
+            "FireProtect": [
+                "Ajax, FP_.001.MBR.000v7d_DIP",
+                "Ajax, Fire_Protect_Top_Board_V2.1_Dip",
+                "Ajax, FireProtect_CO_Board_v8_ DIP"
+            ],
+            "FireProtect Plus": [
+                "Ajax, FPP_.001.MBR.000v7d_DIP",
+                "Ajax, Fire_Protect_Top_Board_V2.1_Dip",
+                "Ajax, FireProtect_CO_Board_v8_(Plus)_Dip"
+            ],
+            "FireProtect 2.0": [
+                "Ajax, EM4.002.MBR.001v4_[FP_8ХХ]_DIP",
+                "Ajax, EM4.002.MBR.001v4_[FP2_SB_8ХХ]_DIP",
+                "Ajax, EM4.002.MBR.001v4_[FP_9ХХ]_DIP",
+                "Ajax, EM4.002.MBR.001v4_[FP2_SB_9ХХ]_DIP"
+            ],
+            "FireProtectPlus 2.0": [
+                "Ajax, EM4.002.MBR.001v4_[FPP_8ХХ]_DIP",
+                "Ajax, EM4.002.MBR.001v4_[FPP2_SB_8ХХ]_DIP",
+                "Ajax, EM4.002.MBR.001v4_[FPP_9ХХ]_DIP"
+            ],
+            "GlassProtect": [
+                "Ajax, GlassProtect v4_868 Mhz_DIP",
+                "Ajax, GP.001.MBR.001v10_868 Mhz_DIP",
+                "Ajax, GP.001.MBR.001v10 (9XX)_DIP"
+            ],
+            "HomeSiren": [
+                "Ajax, HS.001.MBR.001v4_[8XX-66A]_DIP",
+                "Ajax, HS.001.MBR.001v5_[9XX-66A]_DIP"
+            ],
+            "Hub": [
+                "Ajax, HUB.001.P12.001v8_DIP",
+                "Ajax, HUB.001.P24.001v1_DIP",
+                "Ajax, HUB-07d_868 Mhz_DIP",
+                "Ajax, HUB-07e [Hub-07e-3P-9XX] Mhz_DIP",
+                "Ajax, HUB.001.PWB.001v1_Dip",
+                "Ajax, HUB.001.PWB.001v7_Dip",
+                "Ajax, HUB.001.PWB.001v5_Dip",
+                "Ajax, HUB-07e[HUB-07e-3P-66A-8XX]_DIP"
+            ],
+            "Hub Plus": [
+                "Ajax, HUB.001.601.000v16_DIP"
+            ],
+            "Hub 2": [
+                "Ajax, HB2.001.MBR.001v4_(8XX)_DIP",
+                "Ajax, HB2.005.MBR.001v0_[HB2-9XX]_DIP",
+                "Ajax, HB2.001.MBR.001v4 (9XX)_DIP",
+                "Ajax, HB2.005.MBR.001v0_[HB2-8XX]_DIP",
+                "Ajax, HB2.001.PWB.001v2_DIP",
+                "Ajax, HB2.001.PWB.001v4_DIP",
+                "Ajax, HB2.005.MBR.001v0_[HB2-9XX-66A]_DIP",
+                "Ajax, HB2.006.MBR.001v0[9XX-AUX-66A]_DIP",
+                "Ajax, HB2.005.MBR.001v0_[HB2-8XX-66A]_DIP"
+            ],
+            "Hub 2 Plus": [
+                "Ajax, HB2.002.MBR.001v2a_DIP",
+                "Ajax, HB2.001.PWB.001v2_DIP",
+                "Ajax, HB2.002.MBR.001v2a_(9XX/ECG)_DIP",
+                "Ajax, HB2.002.MBR.001v2a_(9XX/AFA)_DIP",
+                "Ajax, HB2.002.MBR.001v2a_(9XX/AUX)_DIP",
+                "Ajax, HB2.002.MBR.001v2a (8XX_ECG_PSG)_DIP",
+                "Ajax, HB2.008.MBR.001v0_[9XX-AFA]_DIP",
+                "Ajax, HB2.008.MBR.001v0_[9XX-AUX]_DIP",
+                "Ajax, HB2.008.MBR.001v0_[8XX-ECG]_DIP",
+                "Ajax, HB2.008.MBR.001v0_[9XX-ECG]_DIP",
+                "Ajax, HB2.008.MBR.001v0_[9XX-VFA]_DIP",
+                "Ajax, HB2.008.MBR.001v1[8XX_ECG]_DIP"
+            ],
+            "Hub 2 (4G)": [
+                "Ajax, HB2.003.MBR.001v1_DIP",
+                "Ajax, HB2.003.MBR.001v1_(9XX/AUX)_DIP",
+                "Ajax, HB2.003.MBR.001v1_[8XX-ECG-EA]_DIP",
+                "Ajax, HB2.006.MBR.001v0_[8XX-ECG]_DIP",
+                "Ajax, HB2.006.MBR.001v0_[9XX-AFA]_DIP",
+                "Ajax, HB2.006.MBR.001v0_[9XX-AUX]_DIP"
+            ],
+            "Hub 2 Prosegur": [
+                "Ajax, HB2.002.MBR.001v2a (8XX_ECG_PSG)_DIP"
+            ],
+            "Hub Light": [
+                "Ajax, HBL.001.MBR.001v4_DIP"
+            ],
+            "Keypad": [
+                "Ajax, Keypad V12_868 Mhz_DIP",
+                "Ajax, Keypad V12 (9XX)_DIP"
+            ],
+            "Keypad Plus": [
+                "Ajax, KPP.001.MBR.001v12_DIP",
+                "Ajax, KPP.001.MBR.001v12 (9XX)_DIP"
+            ],
+            "Keypad Combi": [
+                "Ajax, KPS.001.BOT.001v4_DIP"
+            ],
+            "LeaksProtect": [
+                "Ajax, LeaksProtect_v8_868 Mhz_DIP",
+                "Ajax, LeaksProtect_v8 (9XX)_DIP",
+                "Ajax, LeaksProtect 2P_v8_DIP"
+            ],
+            "LightSwitch": [
+                "Ajax, LSW.001.PWR.001v9[1gang]_DIP",
+                "Ajax, LSW.001.PWR.001v9[2gang]_DIP",
+                "Ajax, LSW.001.PWR.001v9[2way]_DIP"
+            ],
+            "Life Quality Control": [
+                "Ajax, LQC.001.MBR.001v10_DIP",
+                "Ajax, LQC.001.LED.001v4_DIP"
+            ],
+            "MotionProtect": [
+                "Ajax, MotionProtect v4c_868 Mhz_DIP",
+                "Ajax, CP_M_v4c_Motion (9XX)_DIP",
+                "Ajax, MP.002.MBR.001v0_(9XX)_DIP",
+                "Ajax, MP.002.MBR.001v0_868 Mhz_DIP"
+            ],
+            "MotionProtect Plus": [
+                "Ajax, MotionProtectMW V2_DIP",
+                "Ajax, MotionProtectMW V2 (XNA)_DIP",
+                "Ajax, MotionProtectMW V2 (XUK)_DIP"
+            ],
+            "MotionCam": [
+                "Ajax, CAM.001.PIR.001v7_868 Mhz_DIP",
+                "Ajax, CAM.001.PIR.001v7 (9XX)_DIP",
+                "Ajax, CAM.004.PIR.001v0_868 Mhz_DIP",
+                "Ajax, CAM.004.PIR.001v0_(9XX)_DIP",
+                "Ajax, CAM.001.PIR.001v11_868 Mhz_DIP",
+                "Ajax, CAM.001.MBR.001v7_868 Mhz_DIP",
+                "Ajax, CAM.004.MBR.001v3_(8XX)_DIP",
+                "Ajax, CAM.001.MBR.001v11_868 Mhz_DIP",
+                "Ajax, CAM.004.MBR.001v1_868 Mhz_DIP"
+            ],
+            "MotionCam Outdoor": [
+                "Ajax, MCO.001.MBR.001v7_DIP",
+                "Ajax, MCO.001.MBR.001v5_DIP",
+                "Ajax, MCO.001.MBR.001v5 (9XX)_DIP",
+                "Ajax, MCO.001.MBR.001v8_DIP",
+                "Ajax, MCO.001.MBR.001v11_DIP",
+                "Ajax, MCO.002.MBR.001v0_DIP",
+                "Ajax, MCO.002.MBR.001v0 (9XX)_DIP",
+                "Ajax, MCO.001.MBR.001v10_DIP",
+                "Ajax, MCO.001.PIR.001v3_DIP",
+                "Ajax, MCO.001.PIR.001v5_DIP"
+            ],
+            "MotionProtect Outdoor": [
+                "Ajax, MPO.001.PIR.001v5_DIP",
+                "Ajax, MPO.001.MBR.001v5_868 Mhz_DIP",
+                "Ajax, MPO.001.MBR.001v5 (9XX)_DIP"
+            ],
+            "MotionProtect Curtain": [
+                "Ajax, MPC.001.601.000-01v8_DIP",
+                "Ajax, MPC.001.603.000-01v7_868 Mhz_DIP",
+                "Ajax, MPC.001.603.000-01v7 (9XX)_DIP"
+            ],
+            "MultiTransmitter": [
+                "Ajax, MTR.001.MBR.000v3_DIP",
+                "Ajax, MTR.001.MBR.000v1b (9XX_3EOL)_DIP",
+                "Ajax, MTR.001.MBR.000v1b (8XX_3EOL)_DIP"
+            ],
+            "ocBridge": [
+                "Ajax, ocBridge v.15_868 Mhz_DIP"
+            ],
+            "ReX": [
+                "Ajax, HUB-07e [REX-07e-3P-8XX]_DIP",
+                "Ajax, HUB-07e[REX-07e-3P-66A-8XX]_DIP",
+                "Ajax, HUB-07e [REX-07e-3P-9XX]_DIP"
+            ],
+            "ReX2": [
+                "Ajax, HB2.005.MBR.001v0_[RX2-8XX]_DIP",
+                "Ajax, HB2.001.MBR.001v4 [RX2-9XX]_DIP",
+                "Ajax, HB2.001.MBR.001v4 [RX2-8XX]_DIP",
+                "Ajax, HB2.005.MBR.001v0[RX2-8XX-66A]_DIP",
+                "Ajax, HB2.005.MBR.001v0_[RX2-9XX]_DIP",
+                "Ajax, HB2.005.MBR.001v0[RX2-9XX-66A]_DIP"
+            ],
+            "Relay": [
+                "Ajax, Relay_Full_(868)_DIP",
+                "Ajax, Relay_Full_(915)_DIP",
+                "Ajax, WSD.001.604.000v11_Dip",
+                "Ajax, WSD.001.601.000v11_[8XX-66A]_DIP",
+                "Ajax, WSD.001.601.000v11_[9XX-66A]_DIP"
+            ],
+            "SpaceControl": [
+                "Ajax, SpaceControl v8_868 Mhz_DIP",
+                "Ajax, SpaceControl v8 (9XX)_DIP"
+            ],
+            "Socket": [
+                "Ajax, SOC All v9a",
+                "Ajax, SOC.001.SOC.001v9a_Socket Board_DIP",
+                "Ajax, SOC.001.PLG.001v9a_Plug Board_DIP",
+                "Ajax, SOC.001.PLG.000v10_DIP",
+                "Ajax, SOC.001.REL.001v9_Relay Board_DIP"
+            ],
+            "Socket type G": [
+                "Ajax, Socket type G_Full_(8PD)_DIP",
+                "Ajax, SOG.001.REL.001v4_DIP",
+                "Ajax, SOG.001.PWR.001v7_DIP",
+                "Ajax, Socket type G_Full_(9SA)_DIP",
+                "Ajax, SOG.001.PWR.001v5_DIP"
+            ],
+            "StreetSiren": [
+                "Ajax, StreetSiren_DG DIP",
+                "Ajax, StreetSiren_Buzzer DIP",
+                "Ajax, StreetSiren_LED1_v3, LED2_v3_DIP",
+                "Ajax, StreetSiren_LD1, LD2_DIP",
+                "Ajax, StreetSiren_LD1, LD2_AU_DIP",
+                "Ajax, StreetSiren_v5_868 Mhz_DIP",
+                "Ajax, SS.002.MBR.001v5[8XX-66A]_DIP",
+                "Ajax, SS.002.MBR.001v5[9XX-66A]_DIP",
+                "Ajax, StreetSiren_Battery_v3_DIP",
+                "Ajax, SS.002.BT1.001v1_DIP",
+                "Ajax, SS.002.BT2.001v2_DIP"
+            ],
+            "Transmitter": [
+                "Ajax, TRS.002.601.000v3_Dip",
+                "Ajax, TRS.002.601.000v3 (9XX)_Dip"
+            ],
+            "uartBridge": [
+                "Ajax, uartBridge v.8_868 Mhz_DIP"
+            ],
+            "UTB": [
+                "Ajax, UTB.001.601.000v5_DIP"
+            ],
+            "vhfBridge": [
+                "Ajax, VHF.001.MBR.001v5_DIP"
+            ],
+            "WallSwitch": [
+                "Ajax, WallSwitch_Full_DIP",
+                "Ajax, WallSwitch_Full_915_DIP",
+                "Ajax, WS.001.RFM.001v8[8XX-66A]_DIP",
+                "Ajax, WS.001.RFM.001v8 (9XX)_DIP",
+                "Ajax, WS.001.PWB.001v8_DIP"
+            ],
+            "WaterStop": [
+                "Ajax, WTS.001.MBR.001v3 (8XX)_DIP",
+                "Ajax, WTS.001.PWB.001v3 (8XX)_DIP"
+            ],
+            "Yavir Hub": [
+                "Ajax, YVH.001.MBR.001_v4_868 Mhz_DIP"
+            ],
+            "Yavir Hub Plus": [
+                "Ajax, HYB.HB1.MBR.001v2_868 Mhz_DIP"
+            ],
+            "6V PSU for Hub 2": [
+                "Ajax, HB2.001.P6V.001v1_DIP"
+            ],
+            "12V PSU for Hub 2": [
+                "Ajax, HB2.001.P12.001v8_DIP"
+            ],
+            "24V PSU for Hub": [
+                "Ajax, HUB.001.P24.001v1_DIP"
+            ],
+            "Socket Plus (type G)": [
+                "Ajax, SGP.001.PWR.001v3_DIP",
+                "Ajax, Socket Plus (type G)_Full_DIP",
+                "Ajax, SGP.001.REL.001v3_DIP"
+            ],
+            "KeyPad TouchScreen": [
+                "Ajax, KPG.001.MBR.001v2_DIP",
+                "Ajax, KPG.001.CON.001v1_DIP"
+            ]
+        },
+        "Fibra": {
+            "CombiProtect Fibra": [
+                "Ajax, CPF.001.GP.001v2_DIP"
+            ],
+            "DoorProtect Fibra": [
+                "Ajax, DPF.001.MBR.001_v4 [4R] DIP"
+            ],
+            "DoorProtect Plus Fibra": [
+                "Ajax, DPF.001.MBR.001_v4[4R_DPP] DIP"
+            ],
+            "GlassProtect Fibra": [
+                "Ajax, GPF.001.MBR.001v15_868 Mhz_DIP"
+            ],
+            "HomeSiren Fibra": [
+                "Ajax, HSF.001.MBR.001v3_868 Mhz_DIP",
+                "Ajax, HSF.001.CON.001v3_868 Mhz_DIP"
+            ],
+            "Hub Hybrid": [
+                "Ajax, HBF.001.MBR.001v28_(8XX)_DIP",
+                "Ajax, HBF.001.MBR.001v26 [26B-8XX]_DIP"
+            ],
+            "Keypad Fibra": [
+                "Ajax, KPF.002.MBR.001v3_(8ХХ)_DIP",
+                "Ajax, KPF.002.MBR.001v4_DIP",
+                "Ajax, KPF.001.CON.001v2_868 Mhz_DIP"
+            ],
+            "MotionProtect Fibra": [
+                "Ajax, MPF.001.MBR.001v15_DIP",
+                "Ajax, MPF.001.CON.001v13_DIP",
+                "Ajax, MPF.001.MBR.001v13_DIP"
+            ],
+            "MotionProtect Plus Fibra": [
+                "Ajax, MPF.001.MBR.001v13[MPP]_DIP",
+                "Ajax, MPF.001.MBR.001v15[MPP]_DIP",
+                "Ajax, MPP.002.MWB.001v5_DIP",
+                "Ajax, MPF.002.MBR.001v1[MPP]_DIP"
+            ],
+            "Multitransmitter Fibra": [
+                "Ajax, MTF.001.MBR.001v2_DIP"
+            ],
+            "StreetSiren Fibra": [
+                "Ajax, SSF.001.MBR.001v9_DIP",
+                "Ajax, SSF.001.601.001v6_DIP",
+                "Ajax, SSF LD1_LD2_DIP"
+            ],
+            "UTB v5": [
+                "Ajax, UTB.001.601.000v5_DIP"
+            ]
+        }
+    },
+    "spec": {
+        "Ajax, SpaceControl v8_868 Mhz_DIP": [
+            "BAT1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SpaceControl v8 (9XX)_DIP": [
+            "BAT1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MotionProtect v4c_868 Mhz_DIP": [
+            "KX-1",
+            "PIR1",
+            "J6,J7",
+            "J4,J5",
+            "J3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MP.002.MBR.001v0_(9XX)_DIP": [
+            "ZQ2",
+            "U2",
+            "X4",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MP.002.MBR.001v0_868 Mhz_DIP": [
+            "ZQ2",
+            "U2",
+            "X4",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CP_M_v4c_Motion (9XX)_DIP": [
+            "KX-1",
+            "PIR1",
+            "J6,J7",
+            "J4,J5",
+            "J3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MotionProtectMW V2_DIP": [
+            "DA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MotionProtectMW V2 (XNA)_DIP": [
+            "DA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MotionProtectMW V2 (XUK)_DIP": [
+            "DA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.001.PIR.001v7_868 Mhz_DIP": [
+            "D1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.001.PIR.001v7 (9XX)_DIP": [
+            "D1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.004.PIR.001v0_868 Mhz_DIP": [
+            "D1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.004.PIR.001v0_(9XX)_DIP": [
+            "D1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.001.PIR.001v11_868 Mhz_DIP": [
+            "D1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.001.MBR.001v7_868 Mhz_DIP": [
+            "X6,X8",
+            "X4,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.004.MBR.001v3_(8XX)_DIP": [
+            "X2,X4",
+            "X3,X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.001.MBR.001v11_868 Mhz_DIP": [
+            "X3,X6",
+            "X2,X4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CAM.004.MBR.001v1_868 Mhz_DIP": [
+            "X6,X8",
+            "X4,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.MBR.001v7_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.MBR.001v5_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "X4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.MBR.001v5 (9XX)_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "X4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.MBR.001v8_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.MBR.001v11_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.002.MBR.001v0_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.002.MBR.001v0 (9XX)_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.MBR.001v10_DIP": [
+            "X7,X9",
+            "X6,X8",
+            "U2",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.PIR.001v3_DIP": [
+            "D1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MCO.001.PIR.001v5_DIP": [
+            "D1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CP_001.601.000v3_DIP": [
+            "B1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CP_M_v4c_Combi_Motion Plus_DIP": [
+            "KX-1",
+            "PIR1",
+            "J6,J7",
+            "J4,J5",
+            "J3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CP_M_v4c_Combi_Motion Plus (9XX)_DIP": [
+            "KX-1",
+            "PIR1",
+            "J6,J7",
+            "J4,J5",
+            "J3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HS.001.MBR.001v4_[8XX-66A]_DIP": [
+            "C1,C2",
+            "C20,C21,C22",
+            "HG1",
+            "PZ1",
+            "X4,X5",
+            "X6,X7",
+            "A1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HS.001.MBR.001v5_[9XX-66A]_DIP": [
+            "C1,C2",
+            "C20,C21,C22",
+            "HG1",
+            "PZ1",
+            "X4,X5",
+            "X6,X7",
+            "A1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, StreetSiren_DG DIP": [
+            "DG",
+            "LIYO",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, StreetSiren_Buzzer DIP": [
+            "LIYO",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, StreetSiren_LED1_v3, LED2_v3_DIP": [
+            "LED",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, StreetSiren_LD1, LD2_DIP": [
+            "LED",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, StreetSiren_LD1, LD2_AU_DIP": [
+            "LED",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, StreetSiren_v5_868 Mhz_DIP": [
+            "L3",
+            "C35",
+            "C41",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SS.002.MBR.001v5[8XX-66A]_DIP": [
+            "L3",
+            "C35",
+            "C41",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SS.002.MBR.001v5[9XX-66A]_DIP": [
+            "L3",
+            "C35",
+            "C41",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, StreetSiren_Battery_v3_DIP": [
+            "X1",
+            "X2,X3",
+            "X4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SS.002.BT1.001v1_DIP": [
+            "X1",
+            "X2,X3",
+            "X4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SS.002.BT2.001v2_DIP": [
+            "X1",
+            "X2,X3",
+            "X4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Keypad V12_868 Mhz_DIP": [
+            "X2,X4",
+            "X1,X3",
+            "U3,U4,U5",
+            "U6",
+            "U7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Keypad V12 (9XX)_DIP": [
+            "X2,X4",
+            "X1,X3",
+            "U3,U4,U5",
+            "U6",
+            "U7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPP.001.MBR.001v12_DIP": [
+            "U8",
+            "X5,X6",
+            "X3,X4",
+            "U2,U3,U4,U6,U7",
+            "U5",
+            "HG7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPP.001.MBR.001v12 (9XX)_DIP": [
+            "U8",
+            "X5,X6",
+            "X3,X4",
+            "U2,U3,U4,U6,U7",
+            "U5",
+            "HG7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPS.001.BOT.001v4_DIP": [
+            "C6,C7",
+            "K4,K9,K10",
+            "X3,X5,X7,X9",
+            "X2,X4,X6,X8",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB.001.601.000v16_DIP": [
+            "X8",
+            "SW1",
+            "X5",
+            "SW2",
+            "X7",
+            "X3,X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB.001.P12.001v8_DIP": [
+            "X1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB.001.P24.001v1_DIP": [
+            "X1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB-07d_868 Mhz_DIP": [
+            "P5",
+            "S1",
+            "J1",
+            "PB1",
+            "P6",
+            "J5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB-07e[HUB-07e-3P-66A-8XX]_DIP": [
+            "S1",
+            "P5",
+            "J1",
+            "P6",
+            "J5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB-07e [Hub-07e-3P-9XX] Mhz_DIP": [
+            "S1",
+            "P5",
+            "J1",
+            "PB1",
+            "P6",
+            "J5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.MBR.001v4_(8XX)_DIP": [
+            "X4,X5",
+            "X6",
+            "S2",
+            "X1",
+            "S1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-9XX]_DIP": [
+            "S1",
+            "S2",
+            "X1",
+            "X2",
+            "X4,X5",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-9XX-66A]_DIP": [
+            "S2",
+            "X1",
+            "X2",
+            "X4,X5",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.006.MBR.001v0[9XX-AUX-66A]_DIP": [
+            "S2",
+            "X4",
+            "X3",
+            "X5",
+            "X8, X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0[RX2-9XX-66A]_DIP": [
+            "S2",
+            "X1",
+            "X2",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.MBR.001v4 (9XX)_DIP": [
+            "X4,X5",
+            "X6",
+            "S2",
+            "X1",
+            "S1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-8XX]_DIP": [
+            "S1",
+            "S2",
+            "X1",
+            "X2",
+            "X4,X5",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.PWB.001v4_DIP": [
+            "C3",
+            "C7,C8,C9",
+            "RK1",
+            "C1",
+            "C2",
+            "FU1",
+            "X2",
+            "L1",
+            "X1",
+            "TV1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_DIP": [
+            "X11",
+            "X4,X8",
+            "S2",
+            "X9",
+            "S1",
+            "X10",
+            "X5,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.PWB.001v2_DIP": [
+            "C3",
+            "C7,C8,C9",
+            "C1",
+            "C2",
+            "X1",
+            "FU1",
+            "RK1",
+            "X2",
+            "L1",
+            "X2",
+            "TV1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_(9XX/ECG)_DIP": [
+            "X11",
+            "X4,X8",
+            "S2",
+            "X9",
+            "S1",
+            "X10",
+            "X5,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_(9XX/AFA)_DIP": [
+            "X11",
+            "X4,X8",
+            "S2",
+            "X9",
+            "S1",
+            "X10",
+            "X5,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_(9XX/AUX)_DIP": [
+            "X11",
+            "X4,X8",
+            "S2",
+            "X9",
+            "S1",
+            "X10",
+            "X5,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.002.MBR.001v2a (8XX_ECG_PSG)_DIP": [
+            "X11",
+            "X4,X8",
+            "S2",
+            "X9",
+            "S1",
+            "X10",
+            "X5,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.003.MBR.001v1_DIP": [
+            "S1",
+            "S2",
+            "X3",
+            "X4",
+            "X5",
+            "X8,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.003.MBR.001v1_(9XX/AUX)_DIP": [
+            "S1",
+            "S2",
+            "X3",
+            "X4",
+            "X5",
+            "X8,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.003.MBR.001v1_[8XX-ECG-EA]_DIP": [
+            "S2",
+            "X3",
+            "X4",
+            "X5",
+            "X8,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.006.MBR.001v0_[8XX-ECG]_DIP": [
+            "S2",
+            "X3",
+            "X4",
+            "X5",
+            "X8,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.006.MBR.001v0_[9XX-AFA]_DIP": [
+            "S2",
+            "X3",
+            "X4",
+            "X5",
+            "X8,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.006.MBR.001v0_[9XX-AUX]_DIP": [
+            "S2",
+            "X3",
+            "X4",
+            "X5",
+            "X8,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-8XX-66A]_DIP": [
+            "S2",
+            "X1",
+            "X2",
+            "X4, X5",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.008.MBR.001v1[8XX_ECG]_DIP": [
+            "X5, X7",
+            "X11",
+            "X10",
+            "S2",
+            "X9",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB-07e [REX-07e-3P-9XX]_DIP": [
+            "P5",
+            "S1",
+            "PB1",
+            "P6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB.001.PWB.001v7_Dip": [
+            "C3",
+            "C8,C9,C10",
+            "C1",
+            "C4",
+            "FU1",
+            "RK1",
+            "X2",
+            "L1",
+            "X1",
+            "TV1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB.001.PWB.001v1_Dip": [
+            "C3",
+            "C8,C9,C10",
+            "C1",
+            "C4",
+            "FU1",
+            "RK1",
+            "X2",
+            "L1",
+            "X1",
+            "TV1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB.001.PWB.001v5_Dip": [
+            "C3",
+            "C8,C9,C10",
+            "C1",
+            "C4",
+            "FU1",
+            "RK1",
+            "X2",
+            "L1",
+            "X1",
+            "TV1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB-07e [REX-07e-3P-8XX]_DIP": [
+            "P5",
+            "S1",
+            "PB1",
+            "P6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HUB-07e[REX-07e-3P-66A-8XX]_DIP": [
+            "P5",
+            "S1",
+            "P6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[RX2-9XX]_DIP": [
+            "S2",
+            "X1",
+            "X2",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[RX2-8XX]_DIP": [
+            "S2",
+            "X1",
+            "X2",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.MBR.001v4 [RX2-9XX]_DIP": [
+            "X6",
+            "S2",
+            "X1",
+            "S1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.005.MBR.001v0[RX2-8XX-66A]_DIP": [
+            "X6",
+            "S2",
+            "X1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPO.001.PIR.001v5_DIP": [
+            "U1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPO.001.MBR.001v5_868 Mhz_DIP": [
+            "X1",
+            "U3",
+            "X3,X5",
+            "X2,X4",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPO.001.MBR.001v5 (9XX)_DIP": [
+            "X1",
+            "U3",
+            "X3,X5",
+            "X2,X4",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPC.001.601.000-01v8_DIP": [
+            "D1,D3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPC.001.603.000-01v7_868 Mhz_DIP": [
+            "X6",
+            "X5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPC.001.603.000-01v7 (9XX)_DIP": [
+            "X6",
+            "X5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DCO.001.PIR.001v4_DIP": [
+            "U1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DCO.001.MBR.001v5_DIP": [
+            "X8,X9",
+            "X6,X7",
+            "U2,U3",
+            "S2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DCO.001.MBR.001v5 (9XX)_DIP": [
+            "X8,X9",
+            "X6,X7",
+            "U2,U3",
+            "S2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DoorProtect v.8a_868 Mhz_DIP": [
+            "ZQ1",
+            "X3",
+            "SF1",
+            "X4",
+            "X2",
+            "A1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DP.011.MBR.001v3_DIP": [
+            "ZQ3",
+            "A1",
+            "X4",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DP.001.MBR.001v9 (9XX)_DIP": [
+            "X4",
+            "SF1",
+            "A1",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DoorProtect Plus_ v.9_868 Mhz_DIP": [
+            "ZQ1",
+            "X4",
+            "SF1",
+            "A1",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DPP.001.MBR.001v9 (9XX)_DIP": [
+            "X4",
+            "SF1",
+            "A1",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, GlassProtect v4_868 Mhz_DIP": [
+            "KX1",
+            "CN1",
+            "M1",
+            "CN8",
+            "CN7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, GP.001.MBR.001v10_868 Mhz_DIP": [
+            "MIC1",
+            "A1",
+            "X3",
+            "X1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, GP.001.MBR.001v10 (9XX)_DIP": [
+            "MIC1",
+            "A1",
+            "X3",
+            "X1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, FP_.001.MBR.000v7d_DIP": [
+            "ZQ1",
+            "J2,J4",
+            "J1,J3",
+            "RT2",
+            "PZ1",
+            "X2,X3,X4",
+            "W1",
+            "DA10",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, FireProtect_CO_Board_v8_ DIP": [
+            "BAT1",
+            "DA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, FPP_.001.MBR.000v7d_DIP": [
+            "ZQ1",
+            "J2,J4",
+            "J1,J3",
+            "RT2",
+            "PZ1",
+            "X2,X3,X4",
+            "W1",
+            "DA10",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Fire_Protect_Top_Board_V2.1_Dip": [
+            "R1,R2,R3,R4",
+            "D1,D2",
+            "D3,D4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, FireProtect_CO_Board_v8_(Plus)_Dip": [
+            "BAT1",
+            "DA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LeaksProtect_v8_868 Mhz_DIP": [
+            "Z1",
+            "W1",
+            "X8",
+            "X7",
+            "X1,X2,X3,X4,X5,X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LeaksProtect_v8 (9XX)_DIP": [
+            "Z1",
+            "W1",
+            "X8",
+            "X7",
+            "X1,X2,X3,X4,X5,X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LeaksProtect 2P_v8_DIP": [
+            "J1,J2",
+            "X1,X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, PBJ.003.MBR.001v5_868 Mhz_DIP": [
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, PBJ.903.MBR.001v0 (9XX)_DIP": [
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, PBD.001.MBR.001v2_DIP": [
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOC All v9a": [
+            "X4",
+            "X3",
+            "X1",
+            "X2",
+            "C2",
+            "RU1",
+            "X2",
+            "K3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOC.001.SOC.001v9a_Socket Board_DIP": [
+            "X4",
+            "X3",
+            "X1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOC.001.PLG.001v9a_Plug Board_DIP": [
+            "C2",
+            "RU1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOC.001.PLG.000v10_DIP": [
+            "C2",
+            "RU1",
+            "R1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOC.001.REL.001v9_Relay Board_DIP": [
+            "K3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Socket type G_Full_(868)_DIP": [
+            "K1",
+            "C4,C11",
+            "L1",
+            "RU1",
+            "X1,X2",
+            "X3",
+            "X4,X5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Socket type G_Full_(8PD)_DIP": [
+            "K1",
+            "C4,C11",
+            "L1",
+            "RU1",
+            "X1,X2",
+            "X3",
+            "X4,X5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOG.001.REL.001v4_DIP": [
+            "K1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOG.001.PWR.001v7_DIP": [
+            "C4,C11",
+            "L1",
+            "RU1",
+            "X1,X2",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Socket type G_Full_(9SA)_DIP": [
+            "K1",
+            "RU1",
+            "L1",
+            "X1,X2",
+            "X3",
+            "X4,X5",
+            "C4, C11",
+            "Ajax, SOG.001.REL.001v3",
+            "Ajax, SOG.001.KEY.001v3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOG.001.PWR.001v5_DIP": [
+            "RU1",
+            "L1",
+            "X1,X2",
+            "X3",
+            "X4,X5",
+            "C4, C11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SOG.001.REL.001v3_DIP": [
+            "K1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, TRS.002.601.000v3_Dip": [
+            "X5,X6,X7,X8,X9,X10",
+            "X3,X4,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, TRS.002.601.000v3 (9XX)_Dip": [
+            "X5,X6,X7,X8,X9,X10",
+            "X3,X4,X11",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MTR.001.MBR.000v1b (9XX_3EOL)_DIP": [
+            "C100",
+            "C3,C88,C91",
+            "X7,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18",
+            "S3",
+            "X5",
+            "S1,S2",
+            "U2",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MTR.001.MBR.000v1b (8XX_3EOL)_DIP": [
+            "C100",
+            "C3,C88,C91",
+            "X7,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18",
+            "S3",
+            "X5",
+            "S1,S2",
+            "U2",
+            "X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Relay_Full_(868)_DIP": [
+            "X1,X2",
+            "K1",
+            "K8",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Relay_Full_(915)_DIP": [
+            "X1,X2",
+            "K1",
+            "K8",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WSD.001.601.000v11_[8XX-66A]_DIP": [
+            "X1,X2",
+            "K1",
+            "K8",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WSD.001.601.000v11_[9XX-66A]_DIP": [
+            "X1,X2",
+            "K1",
+            "K8",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WSD.001.604.000v11_Dip": [
+            "X1,X2",
+            "K1",
+            "K8",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WallSwitch_Full_DIP": [
+            "K8",
+            "C4",
+            "X1,X2",
+            "K1",
+            "RU1",
+            "L2",
+            "L1,L3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WallSwitch_Full_915_DIP": [
+            "K8",
+            "C4",
+            "X1,X2",
+            "K1",
+            "RU1",
+            "L2",
+            "L1,L3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WS.001.RFM.001v8[8XX-66A]_DIP": [
+            "K8",
+            "C4",
+            "X1,X2",
+            "K1",
+            "RU1",
+            "L2",
+            "L1,L3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WS.001.RFM.001v8 (9XX)_DIP": [
+            "K8",
+            "C4",
+            "X1,X2",
+            "K1",
+            "RU1",
+            "L2",
+            "L1,L3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.P6V.001v1_DIP": [
+            "X2",
+            "X1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, ocBridge v.15_868 Mhz_DIP": [
+            "BAT1",
+            "J9,J20,J21,J22,J23,J24,J25,J29,J30",
+            "SW2",
+            "SW1",
+            "S1",
+            "J3,J7",
+            "J26",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, uartBridge v.8_868 Mhz_DIP": [
+            "J4",
+            "J1",
+            "A1,A2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HYB.HB1.MBR.001v2_868 Mhz_DIP": [
+            "C23,C63",
+            "C96",
+            "C151",
+            "X8",
+            "X10",
+            "X4,X5,X6,X7,X9,X11,X12,X13,X20,X21",
+            "S2,S3",
+            "X1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, YVH.001.MBR.001_v4_868 Mhz_DIP": [
+            "C63",
+            "S2,S3",
+            "U2",
+            "X1",
+            "X2,X3,X4,X5,X6",
+            "X8",
+            "X10",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, VHF.001.MBR.001v5_DIP": [
+            "S1,S2",
+            "X1",
+            "U1",
+            "X2",
+            "X3,X4,X5,X6,X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, UTB.001.601.000v5_DIP": [
+            "C83A, C83B",
+            "C92A, C92B",
+            "K1",
+            "PZ1",
+            "J6",
+            "SW1, SW2, SW3, SW4",
+            "U1",
+            "U4",
+            "X1",
+            "X1A, X1B",
+            "X2",
+            "X3",
+            "X7",
+            "X4, X5, X11",
+            "X6, X8, X9",
+            "X12",
+            "X13",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, NVR.003.PWB.001v1_DIP": [
+            "C1",
+            "C16,C17",
+            "C2",
+            "C5",
+            "FU1",
+            "L1",
+            "RK1",
+            "RV1",
+            "S1",
+            "SW1",
+            "T1",
+            "X1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, NVR.003.MBR.001v4_DIP": [
+            "X2",
+            "X4",
+            "X5,X6,X7",
+            "X9",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HBL.001.MBR.001v4_DIP": [
+            "X4",
+            "X5",
+            "X6,X7,X8",
+            "SW2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LSW.001.PWR.001v9[1gang]_DIP": [
+            "C4",
+            "X2,X5",
+            "K1",
+            "F1",
+            "L1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LSW.001.PWR.001v9[2gang]_DIP": [
+            "C4",
+            "X2,X4,X5",
+            "K1,K2",
+            "F1",
+            "L1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LSW.001.PWR.001v9[2way]_DIP": [
+            "X2, X4, X5",
+            "C4",
+            "F1",
+            "K2",
+            "L1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LQC.001.MBR.001v10_DIP": [
+            "X1",
+            "X2",
+            "X3,X4",
+            "X5,X6",
+            "X7",
+            "DA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, LQC.001.LED.001v4_DIP": [
+            "X1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP_8ХХ]_DIP": [
+            "R25,R27",
+            "SW2",
+            "U3",
+            "U5",
+            "U6",
+            "VD3",
+            "VD4",
+            "VD7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FPP_8ХХ]_DIP": [
+            "R25,R27",
+            "SW2",
+            "U3",
+            "U3",
+            "U5",
+            "U6",
+            "VD3",
+            "VD4",
+            "VD7",
+            "X1,X2,X3,X4",
+            "ZQ3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP2_SB_8ХХ]_DIP": [
+            "R25,R27",
+            "SW2",
+            "U3",
+            "U3",
+            "U5",
+            "U6",
+            "VD3",
+            "VD4",
+            "VD7",
+            "X1,X2,X3,X4",
+            "ZQ3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FPP2_SB_8ХХ]_DIP": [
+            "R25,R27",
+            "SW2",
+            "U3",
+            "U5",
+            "U6",
+            "VD3",
+            "VD4",
+            "VD7",
+            "X1,X2,X3,X4",
+            "ZQ3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP2_SB_9ХХ]_DIP": [
+            "R25,R27",
+            "SW2",
+            "U3",
+            "U5",
+            "U6",
+            "VD3",
+            "VD4",
+            "VD7",
+            "ZQ3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FPP_9ХХ]_DIP": [
+            "R25,R27",
+            "SW2",
+            "U3",
+            "U5",
+            "U6",
+            "VD3",
+            "VD4",
+            "VD7",
+            "X1,X2,X3,X4",
+            "ZQ3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP_9ХХ]_DIP": [
+            "R25,R27",
+            "SW2",
+            "U3",
+            "U3",
+            "U5",
+            "U6",
+            "VD3",
+            "VD4",
+            "VD7",
+            "X1,X2,X3,X4",
+            "ZQ3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.MBR.001v4 [RX2-8XX]_DIP": [
+            "X6",
+            "S2",
+            "X1",
+            "S1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DPF.001.MBR.001_v4 [4R] DIP": [
+            "XS1,XS2,XS3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, DPF.001.MBR.001_v4[4R_DPP] DIP": [
+            "XS1,XS2,XS3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPF.002.MBR.001v3_(8ХХ)_DIP": [
+            "HG5",
+            "HG1,HG2,HG3",
+            "HG4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPF.002.MBR.001v4_DIP": [
+            "HG5",
+            "HG1,HG2,HG3",
+            "HG4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPF.001.CON.001v2_868 Mhz_DIP": [
+            "X1",
+            "X2,X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, CPF.001.GP.001v2_DIP": [
+            "M1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPF.001.MBR.001v15_DIP": [
+            "U1",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPF.001.CON.001v13_DIP": [
+            "XP1",
+            "XS1,XS2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPF.001.MBR.001v13_DIP": [
+            "U1",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPF.001.MBR.001v13[MPP]_DIP": [
+            "U1",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPF.001.MBR.001v15[MPP]_DIP": [
+            "U1",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPF.002.MBR.001v1[MPP]_DIP": [
+            "U1",
+            "SW1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MPP.002.MWB.001v5_DIP": [
+            "DA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, GPF.001.MBR.001v15_868 Mhz_DIP": [
+            "XS1,XS2,XS3",
+            "M1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HSF.001.MBR.001v3_868 Mhz_DIP": [
+            "L2",
+            "PZ1",
+            "HG1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HSF.001.CON.001v3_868 Mhz_DIP": [
+            "XP1",
+            "XS1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HBF.001.MBR.001v28_(8XX)_DIP": [
+            "S1,S2",
+            "U4",
+            "X4",
+            "X7",
+            "X8",
+            "X9,X10,X11,X12,X13",
+            "X14,X15,X16,X17,X18",
+            "X19,X20,X21,X22,X23",
+            "X24",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HBF.001.MBR.001v26 [26B-8XX]_DIP": [
+            "X9,X10,X11,X12,X13",
+            "X14,X15,X16,X17,X18",
+            "X19,X20,X21,X22,X23",
+            "X24",
+            "X6",
+            "S1, S2",
+            "X7",
+            "U4",
+            "X8",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WS.001.PWB.001v8_DIP": [
+            "C2",
+            "C1",
+            "R2, R6",
+            "C3",
+            "R4",
+            "R1",
+            "R5",
+            "D1",
+            "VD1",
+            "VD3",
+            "VD4",
+            "R3",
+            "RU1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WTS.001.MBR.001v3 (8XX)_DIP": [
+            "SW1, SW2",
+            "W1",
+            "W2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, WTS.001.PWB.001v3 (8XX)_DIP": [
+            "HG1",
+            "SP1",
+            "X1",
+            "X2",
+            "X3,X4,X5,X6",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, MTF.001.MBR.001v2_DIP": [
+            "C53, C69",
+            "S1, S2",
+            "S3",
+            "U2",
+            "X4",
+            "X5, X17, X18",
+            "X6,X8,X9,X10,X11",
+            "X13,X14,X15,X16",
+            "X7",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-AFA]_DIP": [
+            "S2",
+            "X10",
+            "X11",
+            "X5,X7",
+            "X9",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-AUX]_DIP": [
+            "S2",
+            "X10",
+            "X11",
+            "X5,X7",
+            "X9",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[8XX-ECG]_DIP": [
+            "S2",
+            "X10",
+            "X11",
+            "X5,X7",
+            "X9",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-ECG]_DIP": [
+            "S2",
+            "X10",
+            "X11",
+            "X5,X7",
+            "X9",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-VFA]_DIP": [
+            "S2",
+            "X10",
+            "X11",
+            "X5,X7",
+            "X9",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SGP.001.PWR.001v3_DIP": [
+            "C4, C11",
+            "С28",
+            "L1",
+            "RU1",
+            "X1, X2",
+            "X3",
+            "X4, X5",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, Socket Plus (type G)_Full_DIP": [
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SGP.001.REL.001v3_DIP": [
+            "K1",
+            "F1",
+            "FA1",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SSF.001.MBR.001v9_DIP": [
+            "C29",
+            "C43",
+            "L1",
+            "S1, S2",
+            "X2",
+            "X4",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SSF.001.601.001v6_DIP": [
+            "X1, X2",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPG.001.MBR.001v2_DIP": [
+            "A1",
+            "X2",
+            "X3",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, KPG.001.CON.001v1_DIP": [
+            "X1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, HB2.001.P12.001v8_DIP": [
+            "X1",
+            "X2",
+            "SMD",
+            "Інше"
+        ],
+        "Ajax, SSF LD1_LD2_DIP": [
+            "LED",
+            "SMD",
+            "Інше"
+        ]
+    },
+    "defects": [
+        "Невірна полярність",
+        "Нахил",
+        "Відсутність компонента",
+        "Проміжок",
+        "Холодна пайка",
+        "Залишки",
+        "Непропай",
+        "Коротке замикання",
+        "Запаяний тест поінт",
+        "КЗ на SMD",
+        "Пошкодження маски",
+        "Пошкодження плати",
+        "Неліквід компонента",
+        "Невірна формовка"
+    ],
+    "dip": {
+        "Друщенкова В. С.": [
+            "Друщенкова В. С.",
+            "Івасенко І. О.",
+            "Розпутній П. В.",
+            "Степенко Н. Ю.",
+            "Калугін С. О.",
+            "Королович С. І.",
+            "Яворська Х. В.",
+            "Пономаренко Н. В.",
+            "Курдупов Ю. О.",
+            "Фролов Г. В.",
+            "Генов М. В."
+        ],
+        "Обозюк С. С.": [
+            "Обозюк С. С.",
+            "Ковалевський М. В.",
+            "Смотрицька А. Д.",
+            "Ярош В. М.",
+            "Шелько М. П.",
+            "Тоткало О. Є.",
+            "Ганга В. А.",
+            "Голобородов А. А.",
+            "Красний В. М.",
+            "Вінтер А. Є."
+        ],
+        "Дудняк Д. О.": [
+            "Дудняк Д. О.",
+            "Сухан І. І.",
+            "Бурлік А. І.",
+            "Яценко Ф. О.",
+            "Запирич О. М.",
+            "Дуднік В. Ю.",
+            "Гляненко Ю. М.",
+            "Шевченко В. В.",
+            "Шапаренко Ю. О."
+        ],
+        "Дерикіт С. А.": [
+            "Дерикіт С. А.",
+            "Бережко Ю. С.",
+            "Гамаль Д. В.",
+            "Зимін П. В.",
+            "Мадьяр І. В.",
+            "Ніжний Я. М.",
+            "Цирюк М. О.",
+            "Ліщинський В. В.",
+            "Кірєєв А. М.",
+            "Франчук Л. О.",
+            "Динис Ю. І.",
+            "Ваник А. В."
+        ],
+        "Вашека А. В.": [
+            "Вашека А. В.",
+            "Новицький М. А.",
+            "Якименко В. А.",
+            "Радич І. І.",
+            "Усова Т. М.",
+            "Атаманюк Т. А.",
+            "Крижалка А. С.",
+            "Лашків О. В.",
+            "Федоляк Т. М.",
+            "Янчишин О. І.",
+            "Черепʼюк В. Ф."
+        ],
+        "Андрієнко І. В.": [
+            "Андрієнко І. В.",
+            "Власенко В. А.",
+            "Лисенко Є. М.",
+            "Яців А. Б.",
+            "Чуть Л. А.",
+            "Бобко М. М.",
+            "Дехтяренко Б. С.",
+            "Ярмоцик С. В.",
+            "Бєлозьорова А. П.",
+            "Захарчук М. І.",
+            "Синяк О. В."
+        ],
+        "Лагода Д. А.": [
+            "Лагода Д. А.",
+            "Чернавін С. В.",
+            "Лаба В. О.",
+            "Денисенко С. Л.",
+            "Шиманський В. П.",
+            "Кучінка Й. Й.",
+            "Агаджанян С. А.",
+            "Приходько С. О."
+        ],
+        "Гудков Є. О.": [
+            "Гудков Є. О.",
+            "Капац В. О.",
+            "Ващук Є. М.",
+            "Жига М. Г.",
+            "Сільченко Ю. В.",
+            "Дмитраков О. С.",
+            "Левківський-Усенко М. П."
+        ],
+        "Обелець Є. Г.": [
+            "Обелець Є. Г.",
+            "Мироненко М. П.",
+            "Хребет О. В.",
+            "Хорішко Д. Є.",
+            "Санін В. О.",
+            "Андрашко Р. М.",
+            "Ревта О. П.",
+            "Мартон О. М."
+        ],
+        "Пилипець С. В.": [
+            "Пилипець С. В.",
+            "Пашаєв Р. З.",
+            "Левін О. Г.",
+            "Романюк О. В.",
+            "Геренгу Т. В.",
+            "Горлач І. О.",
+            "Швидка Д. С.",
+            "Андрашко В. М."
+        ],
+        "Мірошниченко Є. В.": [
+            "Мірошниченко Є. В.",
+            "Торгін І. В.",
+            "Роман Р. В.",
+            "Міговка М. М.",
+            "Меренич В. В.",
+            "Федак Ю. Ю.",
+            "Мірошниченко С. В."
+        ],
+        "Коваль Р. М.": [
+            "Коваль Р. М.",
+            "Сотник О. В.",
+            "Годованець А. М.",
+            "Галецький Б. Р.",
+            "Динис Н. О."
+        ],
+        "Яремчук С. П.": [
+            "Яремчук С. П.",
+            "Шульга І. О.",
+            "Якубовський В. В.",
+            "Ярмоцик Є. С.",
+            "Не_монтажник"
+        ]
+    },
+    "dip_key": {
+        "Друщенкова В. С.": "Друщенкова Вероніка Сергіївна",
+        "Івасенко І. О.": "Івасенко Ігор Олегович",
+        "Розпутній П. В.": "Розпутній Павло Вікторович",
+        "Степенко Н. Ю.": "Степенко Назар Юрійович",
+        "Калугін С. О.": "Калугін Святослав Олегович",
+        "Королович С. І.": "Королович Святослав Іванович",
+        "Яворська Х. В.": "Яворська Христина Владиславівна",
+        "Пономаренко Н. В.": "Пономаренко Надія Володимирівна",
+        "Курдупов Ю. О.": "Курдупов Юрій Олексійович",
+        "Фролов Г. В.": "Фролов Геннадій Вікторович",
+        "Генов М. В.": "Генов Микола Володимирович",
+        "Обозюк С. С.": "Обозюк Сергій Сергійович",
+        "Ковалевський М. В.": "Ковалевський Микита Володимирович",
+        "Смотрицька А. Д.": "Смотрицька Анна Дмитрівна",
+        "Ярош В. М.": "Ярош Владислав Миколайович",
+        "Шелько М. П.": "Шелько Мирослава Павлівна",
+        "Тоткало О. Є.": "Тоткало Олексій Євгенович",
+        "Ганга В. А.": "Ганга Віктор Аттілович",
+        "Голобородов А. А.": "Голобородов Андрій Андрійович",
+        "Красний В. М.": "Красний Василь Михайлович",
+        "": "",
+        "Вінтер А. Є.": "Вінтер Артур Євгенович",
+        "Дудняк Д. О.": "Дудняк Денис Олексійович",
+        "Сухан І. І.": "Сухан Іван Іванович",
+        "Бурлік А. І.": "Бурлік Антон Ігорович",
+        "Яценко Ф. О.": "Яценко Федір Олександрович",
+        "Запирич О. М.": "Запирич Олег Миколайович",
+        "Дуднік В. Ю.": "Дуднік Владислав Юрійович",
+        "Гляненко Ю. М.": "Гляненко Юрій Миколайович",
+        "Шевченко В. В.": "Шевченко Володимир Володимирович",
+        "Шапаренко Ю. О.": "Шапаренко Юрій Олександрович",
+        "Дерикіт С. А.": "Дерикіт Сергій Анатолійович",
+        "Бережко Ю. С.": "Бережко Юрій Станіславович",
+        "Гамаль Д. В.": "Гамаль Дмитро Валентинович",
+        "Зимін П. В.": "Зимін Павло Володимирович",
+        "Мадьяр І. В.": "Мадьяр Іштван Васильович",
+        "Ніжний Я. М.": "Ніжний Ярослав Михайлович",
+        "Цирюк М. О.": "Цирюк Микита Олексійович",
+        "Ліщинський В. В.": "Ліщинський Володимир Вікторович",
+        "Кірєєв А. М.": "Кірєєв Андрій Миколайович",
+        "Франчук Л. О.": "Франчук Леонід Олексійович",
+        "Динис Ю. І.": "Динис Юрій Іванович",
+        "Ваник А. В.": "Ваник Анастасія Василівна",
+        "Вашека А. В.": "Вашека Андрій Володимирович",
+        "Новицький М. А.": "Новицький Михайло Аркадійович",
+        "Якименко В. А.": "Якименко Віктор Андрійович",
+        "Радич І. І.": "Радич Іван Іванович",
+        "Усова Т. М.": "Усова Тетяна Миколаївна",
+        "Атаманюк Т. А.": "Атаманюк Тарас Анатолійович",
+        "Крижалка А. С.": "Крижалка Андрій Степанович",
+        "Лашків О. В.": "Лашків Олександр Володимирович",
+        "Федоляк Т. М.": "Федоляк Тарас Михайлович",
+        "Янчишин О. І.": "Янчишин Олександр Іванович",
+        "Черепʼюк В. Ф.": "Черепʼюк Володимир Федорович",
+        "Андрієнко І. В.": "Андрієнко Ілля Вадимович",
+        "Власенко В. А.": "Власенко Валентин Анатолійович",
+        "Лисенко Є. М.": "Лисенко Євгеній Миколайович",
+        "Яців А. Б.": "Яців Андрій Богданович",
+        "Чуть Л. А.": "Чуть Людмила Анатоліївна",
+        "Бобко М. М.": "Бобко Микола Миколайович",
+        "Дехтяренко Б. С.": "Дехтяренко Богдан Сергійович",
+        "Ярмоцик С. В.": "Ярмоцик Сергій Васильович",
+        "Бєлозьорова А. П.": "Бєлозьорова Аміна Петрівна",
+        "Захарчук М. І.": "Захарчук Максим Ігорович",
+        "Синяк О. В.": "Синяк Олексій Володимирович",
+        "Лагода Д. А.": "Лагода Дмитро Анатолійович",
+        "Чернавін С. В.": "Чернавін Сергій Вікторович",
+        "Лаба В. О.": "Лаба Володимир Олександрович",
+        "Денисенко С. Л.": "Денисенко Сергій Леонідович",
+        "Шиманський В. П.": "Шиманський Володимир Петрович",
+        "Кучінка Й. Й.": "Кучінка Йосип Йосипович",
+        "Агаджанян С. А.": "Агаджанян Самвел Артурович",
+        "Приходько С. О.": "Приходько Сергій Олександрович",
+        "Гудков Є. О.": "Гудков Євген Олександрович",
+        "Капац В. О.": "Капац Вікторія Олександрівна",
+        "Ващук Є. М.": "Ващук Євген Михайлович",
+        "Жига М. Г.": "Жига Михайло Георгійович",
+        "Сільченко Ю. В.": "Сільченко Юлія Віталіївна",
+        "Дмитраков О. С.": "Дмитраков Олександр Сергійович",
+        "Левківський-Усенко М. П.": "Левківський-Усенко Максим Петрович",
+        "Обелець Є. Г.": "Обелець Євгеній Григорович",
+        "Мироненко М. П.": "Мироненко Максим Петрович",
+        "Хребет О. В.": "Хребет Олександр Володимирович",
+        "Хорішко Д. Є.": "Хорішко Денис Євгенович",
+        "Санін В. О.": "Санін Владислав Олексійович",
+        "Андрашко Р. М.": "Андрашко Роман Михайлович",
+        "Ревта О. П.": "Ревта Олег Петрович",
+        "Мартон О. М.": "Мартон Олександр Михайлович",
+        "Пилипець С. В.": "Пилипець Сергій Валентинович",
+        "Пашаєв Р. З.": "Пашаєв Руслан Зелімханович",
+        "Левін О. Г.": "Левін Олександр Геннадійович",
+        "Романюк О. В.": "Романюк Олександр Вікторович",
+        "Геренгу Т. В.": "Геренгу Тюнде Василівна",
+        "Горлач І. О.": "Горлач Ігор Олегович",
+        "Швидка Д. С.": "Швидка Дарина Сергіївна",
+        "Андрашко В. М.": "Андрашко Владислав Михайлович",
+        "Мірошниченко Є. В.": "Мірошниченко Євгеній Васильович",
+        "Торгін І. В.": "Торгін Ігор Вікторович",
+        "Роман Р. В.": "Роман Роман Вікторович",
+        "Міговка М. М.": "Міговка Микола Миколайович",
+        "Меренич В. В.": "Меренич Володимир Володимирович",
+        "Федак Ю. Ю.": "Федак Юрій Юрійович",
+        "Мірошниченко С. В.": "Мірошниченко Сергій Володимирович",
+        "Коваль Р. М.": "Коваль Руслан Михайлович",
+        "Сотник О. В.": "Сотник Олександр Вікторович",
+        "Годованець А. М.": "Годованець Аніта Михайлівна",
+        "Галецький Б. Р.": "Галецький Богдан Русланович",
+        "Динис Н. О.": "Динис Надія Олександрівна",
+        "Яремчук С. П.": "Яремчук Сергій Павлович",
+        "Шульга І. О.": "Шульга Ігор Олегович",
+        "Якубовський В. В.": "Якубовський Віктор Вікторович",
+        "Ярмоцик Є. С.": "Ярмоцик Євгеній Сергійович",
+        "Не_монтажник": "Не_монтажник"
+    },
+    "docs": {
+        "Ajax, SpaceControl v8_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767998243/1.2.24.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768161952/1.2.24.3."
+        ],
+        "Ajax, SpaceControl v8 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767998243/1.2.24.5",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768161952/1.2.24.3."
+        ],
+        "Ajax, MotionProtect v4c_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767997503/1.2.15.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767932061/1.2.15.3."
+        ],
+        "Ajax, MP.002.MBR.001v0_(9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3320414574/MP.002.MBR.001v0+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3320414574/MP.002.MBR.001v0+DIP"
+        ],
+        "Ajax, CP_M_v4c_Motion (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767997503/1.2.15.5",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767932061/1.2.15.3."
+        ],
+        "Ajax, MotionProtectMW V2_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767244045/MotionProtectMW+V2+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768128603/1.2.18.3."
+        ],
+        "Ajax, MotionProtectMW V2 (XNA)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3358425330/MotionProtectMW+V2+XNA+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3358425330/MotionProtectMW+V2+XNA+DIP"
+        ],
+        "Ajax, MotionProtectMW V2 (XUK)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3359997968/MotionProtectMW+V2+XUK+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3359997968/MotionProtectMW+V2+XUK+DIP"
+        ],
+        "Ajax, MP.002.MBR.001v0_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3320414574",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3320414574"
+        ],
+        "Ajax, CAM.001.PIR.001v7_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1703182769/1.2.14.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1702560538/1.2.14.3."
+        ],
+        "Ajax, CAM.001.PIR.001v7 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1703182769/1.2.14.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1702560538/1.2.14.3."
+        ],
+        "Ajax, CAM.004.PIR.001v0_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3647996744/CAM.005.PIR.001v0+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3647996744/CAM.005.PIR.001v0+DIP+868"
+        ],
+        "Ajax, CAM.004.PIR.001v0_(9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3647931915/CAM.005.PIR.001v0+DIP+9XX",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3647931915/CAM.005.PIR.001v0+DIP+9XX"
+        ],
+        "Ajax, CAM.001.PIR.001v11_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3401318452/CAM+001+PIR+001v11+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3401318452/CAM+001+PIR+001v11+DIP"
+        ],
+        "Ajax, CAM.001.MBR.001v7_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1703182769/1.2.14.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1703182769/1.2.14.4."
+        ],
+        "Ajax, CAM.004.MBR.001v3_(8XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3663429695",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3663429695"
+        ],
+        "Ajax, CAM.001.MBR.001v11_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3400237472",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3400237472"
+        ],
+        "Ajax, CAM.004.MBR.001v1_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3468427331",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3468427331"
+        ],
+        "Ajax, MCO.001.MBR.001v7_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2512716224/MCO.001.MBR.001v4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2513273299/MCO.001.MBR.001v4"
+        ],
+        "Ajax, MCO.001.MBR.001v5_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3624271876/MCO.001.MBR.001v5+DIP+915+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3624271876/MCO.001.MBR.001v5+DIP+915+868"
+        ],
+        "Ajax, MCO.001.MBR.001v5 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3624271876/MCO.001.MBR.001v5+DIP+915+869",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3624271876/MCO.001.MBR.001v5+DIP+915+869"
+        ],
+        "Ajax, MCO.001.MBR.001v8_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3368976650/MCO.001.MBR.001v8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3368976650/MCO.001.MBR.001v8+DIP"
+        ],
+        "Ajax, MCO.001.MBR.001v11_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3698065641/MCO.001.MBR.001v11+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3698065641/MCO.001.MBR.001v11+DIP"
+        ],
+        "Ajax, MCO.002.MBR.001v0_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3572695389",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3572695389"
+        ],
+        "Ajax, MCO.002.MBR.001v0 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3572695389/MCO.002.MBR.001v0+DIP+915",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3572695389/MCO.002.MBR.001v0+DIP+915"
+        ],
+        "Ajax, MCO.001.MBR.001v10_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3588554783/MCO.001.MBR.001v10+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3588554783/MCO.001.MBR.001v10+DIP"
+        ],
+        "Ajax, MCO.001.PIR.001v3_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2512454240/MCO.001.PIR.001v3",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2512814830/MCO.001.PIR.001v3"
+        ],
+        "Ajax, MCO.001.PIR.001v5_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3698589939/MCO.001.PIR.001v5+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3698589939/MCO.001.PIR.001v5+DIP"
+        ],
+        "Ajax, CP_001.601.000v3_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759807580/CP+001.601.000v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757184454/CP+001.601.000v3+DIP"
+        ],
+        "Ajax, CP_M_v4c_Combi_Motion Plus_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1760070774/CombiProtect+M+v4+A+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757315330/CombiProtect+M+v4+A+868+Mhz+DIP"
+        ],
+        "Ajax, CP_M_v4c_Combi_Motion Plus (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1760070774/CombiProtect+M+v4+A+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757315330/CombiProtect+M+v4+A+868+Mhz+DIP"
+        ],
+        "Ajax, HS.001.MBR.001v4_[8XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3723722846/HS.001.MBR.001.V4+f868+66A+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3723722846/HS.001.MBR.001.V4+f868+66A+DIP"
+        ],
+        "Ajax, HS.001.MBR.001v5 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2815986383/HS.001.MBR.001+v5",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2815920760/HS.001.MBR.001+v5"
+        ],
+        "Ajax, HS.001.MBR.001v5_[9XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2815986383/HS.001.MBR.001+v6",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2815920760/HS.001.MBR.001+v6"
+        ],
+        "Ajax, UTB.001.601.000v5_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3365797901/UTB.001.601.000v5+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3365797901/UTB.001.601.000v5+DIP+868"
+        ],
+        "Ajax, HB2.001.P12.001v8_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1769570817/1.2.30.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1771143266/1.2.30.3."
+        ],
+        "Ajax, StreetSiren_v5_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767965683/StreetSiren+v5+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767965683/StreetSiren+v5+DIP"
+        ],
+        "Ajax, SS.002.MBR.001v5[8XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3775201399/SS.002.MBR.001V5+9XX+66A+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3775201399/SS.002.MBR.001V5+9XX+66A+DIP"
+        ],
+        "Ajax, SS.002.MBR.001v5[9XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3775201399",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3775201399"
+        ],
+        "Ajax, StreetSiren_Battery_v3_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768129639/StreetSiren+Battery+v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768129639/StreetSiren+Battery+v3+DIP"
+        ],
+        "Ajax, SS.002.BT1.001v1_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2308636855/SS.002.BT1.001+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2309881955"
+        ],
+        "Ajax, SS.002.BT2.001v2_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2310144001/SS.002.BT2.001+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2309881955"
+        ],
+        "Ajax, Keypad V12_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759808737/1.2.12.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1760037551/1.2.12.3."
+        ],
+        "Ajax, Keypad V12 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759808737/1.2.12.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1760037551/1.2.12.3."
+        ],
+        "Ajax, KPP.001.MBR.001v12_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2686878118/KPP.001.MBR.001v12",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2686255899/KPP.001.MBR.001v12"
+        ],
+        "Ajax, KPP.001.MBR.001v12 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2686878118/KPP.001.MBR.001v12",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2686255899/KPP.001.MBR.001v12"
+        ],
+        "Ajax, KPS.001.BOT.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2629141500/KPS.001.BOT.001v4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2632319261/KPS.001.BOT.001v4"
+        ],
+        "Ajax, HUB.001.601.000v16_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1750106462/ks3190",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1760071952/1.2.11.3."
+        ],
+        "Ajax, HUB.001.P12.001v8_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1771110557/1.2.31.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1771110546/1.2.31.3."
+        ],
+        "Ajax, HUB.001.P24.001v1_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3580035553/HB2.001.P24.001v1+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3580035553/HB2.001.P24.001v1+DIP"
+        ],
+        "Ajax, HUB-07d_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759807710/HUB-07d+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2116223192/HUB-07d+BOM+DIP"
+        ],
+        "Ajax, HUB-07e[HUB-07e-3P-66A-8XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3853582455",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3853582455"
+        ],
+        "Ajax, HUB-07e [Hub-07e-3P-9XX] Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2822144305/HUB-07e",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2822144305/HUB-07e"
+        ],
+        "Ajax, HUB.001.PWB.001v1_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2116878616/HUB.001.PWB.001v1+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2117173585/HUB.001.PWB.001v1+BOM+DIP"
+        ],
+        "Ajax, HUB.001.PWB.001v7_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2116878616/HUB.001.PWB.001v1+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2117173585/HUB.001.PWB.001v1+BOM+DIP"
+        ],
+        "Ajax, HUB.001.PWB.001v5_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2964324877/HUB.001.PWB.001v5+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2964292501/HUB.001.PWB.001v5+BOM+DIP"
+        ],
+        "Ajax, HB2.001.MBR.001v4_(8XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3397223813/HB2.001.MBR.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3397223813/HB2.001.MBR.001v4+DIP"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-9XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3678240993/HB2.005.MBR.001.v0+8XX+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3678240993/HB2.005.MBR.001.v0+8XX+DIP"
+        ],
+        "Ajax, HB2.001.MBR.001v4 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3397223813/HB2.001.MBR.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3397223813/HB2.001.MBR.001v4+DIP"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-8XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3678240993/HB2.005.MBR.001.v0+8XX+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3678240993/HB2.005.MBR.001.v0+8XX+DIP"
+        ],
+        "Ajax, HB2.001.PWB.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3455549473/HB2.001.PWB.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3455549473/HB2.001.PWB.001v4+DIP"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1861222961/HB2.002.MBR.001v2a+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1830649904/HB2.002.MBR.001v2a+BOM+DIP"
+        ],
+        "Ajax, HB2.001.PWB.001v2_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2456420587/HB2.001.PWB.001v2",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2456649881/HB2.001.PWB.001v2"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_(9XX/ECG)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1882226932/HB2.002.MBR.001v2A+9+ECG+915",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1882226932/HB2.002.MBR.001v2A+9+ECG+915"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_(9XX/AFA)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2301395803/ks4705",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2301264851/ks4705"
+        ],
+        "Ajax, HB2.002.MBR.001v2a_(9XX/AUX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3375955982/HB2.002.MBR.001v2a+9XX+AUX+915",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3375955982/HB2.002.MBR.001v2a+9XX+AUX+915"
+        ],
+        "Ajax, HB2.002.MBR.001v2a (8XX_ECG_PSG)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3553394735/HB2.002.MBR.001v2a+ECG+PSG+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3553394735/HB2.002.MBR.001v2a+ECG+PSG+DIP+868"
+        ],
+        "Ajax, HB2.003.MBR.001v1_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3311206420",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3311206420"
+        ],
+        "Ajax, HB2.003.MBR.001v1_(9XX/AUX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3685548156/HB2.006.MBR.001.v0+9XX-AUX+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3685548156/HB2.006.MBR.001.v0+9XX-AUX+DIP"
+        ],
+        "Ajax, HB2.003.MBR.001v1_[8XX-ECG-EA]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3668770870/HB2.003.MBR.001v1+8XX-ECG-EA+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3668770870/HB2.003.MBR.001v1+8XX-ECG-EA+DIP"
+        ],
+        "Ajax, HB2.006.MBR.001v0_[8XX-ECG]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3678765248/HB2.006.MBR.001.v0+8XX-ECG+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3678765248/HB2.006.MBR.001.v0+8XX-ECG+DIP"
+        ],
+        "Ajax, HB2.006.MBR.001v0_[9XX-AFA]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3685712067/HB2.006.MBR.001.v0+9XX-AFA+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3685712067/HB2.006.MBR.001.v0+9XX-AFA+DIP"
+        ],
+        "Ajax, HB2.006.MBR.001v0_[9XX-AUX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3685548156/HB2.006.MBR.001.v0+9XX-AUX+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3685548156/HB2.006.MBR.001.v0+9XX-AUX+DIP"
+        ],
+        "Ajax, HB2.006.MBR.001v0[9XX-AUX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3808493797",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3808493797"
+        ],
+        "Ajax, HB2.008.MBR.001v1[8XX_ECG]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3837886516/HB2+008+MBR+001v1+8XX+ECG+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3837886516/HB2+008+MBR+001v1+8XX+ECG+DIP"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-9XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3809643156",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3809643156"
+        ],
+        "Ajax, HUB-07e [REX-07e-3P-8XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3358752799/REX+HUB+07e+3P+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3358752799/REX+HUB+07e+3P+DIP"
+        ],
+        "Ajax, HUB-07e [REX-07e-3P-9XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3358752799/REX+HUB+07e+3P+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3358752799/REX+HUB+07e+3P+DIP"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[RX2-9XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3700457635/HB2.005.MBR.001.v0+RX2+9XX+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3700457635/HB2.005.MBR.001.v0+RX2+9XX+DIP"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[RX2-8XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3694166162/HB2.005.MBR.001.v0+RX2+8XX+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3694166162/HB2.005.MBR.001.v0+RX2+8XX+DIP"
+        ],
+        "Ajax, HB2.005.MBR.001v0[RX2-9XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3818127480",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3818127480"
+        ],
+        "Ajax, HB2.001.MBR.001v4 [RX2-9XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3367698434/HB2.001.MBR.001v4+RX2+DIP+915",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3367698434/HB2.001.MBR.001v4+RX2+DIP+915"
+        ],
+        "Ajax, HUB-07e[REX-07e-3P-66A-8XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3855352175",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3855352175"
+        ],
+        "Ajax, HB2.005.MBR.001v0[RX2-8XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3818455083/HB2.005.MBR.001v0+RX2+8XX+66A+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3818455083/HB2.005.MBR.001v0+RX2+8XX+66A+DIP"
+        ],
+        "Ajax, MPO.001.PIR.001v5_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768128570/MPO.001.PIR.001v5+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767964915/1.2.17.3."
+        ],
+        "Ajax, MPO.001.MBR.001v5_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767243981/MPO.001.MBR.001v5+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767964915/1.2.17.3."
+        ],
+        "Ajax, MPO.001.MBR.001v5 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767243981/MPO.001.MBR.001v5+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767964915/1.2.17.3."
+        ],
+        "Ajax, MPC.001.601.000-01v8_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767243949/1.2.16.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767964854/1.2.16.3."
+        ],
+        "Ajax, MPC.001.603.000-01v7_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767243949/1.2.16.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767964854/1.2.16.3."
+        ],
+        "Ajax, MPC.001.603.000-01v7 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767243949/1.2.16.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767964854/1.2.16.3."
+        ],
+        "Ajax, DCO.001.PIR.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2215281175/DCO.001.PIR.001v4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2213053051/DCO.001.PIR.001v4+DIP"
+        ],
+        "Ajax, DCO.001.MBR.001v5_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2215412142/DCO.001.MBR.001v5",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2213053051/DCO.001.PIR.001v4+DIP"
+        ],
+        "Ajax, DCO.001.MBR.001v5 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2215412142/DCO.001.MBR.001v6",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2213053051/DCO.001.PIR.001v4+DIP"
+        ],
+        "Ajax, DoorProtect v.8a_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757184491/1.2.3.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757217170/1.2.3.3."
+        ],
+        "Ajax, DP.011.MBR.001v3_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3369536025/DP+011+MBR+001v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3369536025/DP+011+MBR+001v3+DIP"
+        ],
+        "Ajax, DP.001.MBR.001v9 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2913372121/ks8705+ks8707",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2913372105/ks8705+ks8707"
+        ],
+        "Ajax, DoorProtect Plus_ v.9_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757151727/1.2.4.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1754958010/1.2.4.3."
+        ],
+        "Ajax, DPP.001.MBR.001v9 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2966849154/ks7904",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2970321304/ks7904"
+        ],
+        "Ajax, GlassProtect v4_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759805827/1.2.7.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1758593547/1.2.7.3."
+        ],
+        "Ajax, GP.001.MBR.001v10_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3485794432/GP.001.MBR.001v10+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3485794432/GP.001.MBR.001v10+DIP+868"
+        ],
+        "Ajax, GP.001.MBR.001v10 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3485794432/GP.001.MBR.001v10+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3485794432/GP.001.MBR.001v10+DIP+868"
+        ],
+        "Ajax, FP_.001.MBR.000v7d_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2610462825/FP+.001.MBR.000v7d",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2608431713/FP+.001.MBR.000v7d"
+        ],
+        "Ajax, Fire_Protect_Top_Board_V2.1_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757020552/Fire+Protect+V7a",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759773026/Fire+Protect+V7a"
+        ],
+        "Ajax, FireProtect_CO_Board_v8_ DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1757020552/Fire+Protect+V7a",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759773026/Fire+Protect+V7a"
+        ],
+        "Ajax, FPP_.001.MBR.000v7d_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2608268123/FPP.001.MBR.000v7d",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2610724970/FPP+.001.MBR.000v7d+c"
+        ],
+        "Ajax, FireProtect_CO_Board_v8_(Plus)_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1758626399/Fire+ProtectPlus+V7a",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1758626399/Fire+ProtectPlus+V7a"
+        ],
+        "Ajax, LeaksProtect_v8_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759808781/1.2.13.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759842102/1.2.13.3."
+        ],
+        "Ajax, LeaksProtect_v8 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759808781/1.2.13.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759842102/1.2.13.3."
+        ],
+        "Ajax, LeaksProtect 2P_v8_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759808781/1.2.13.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1759842102/1.2.13.3."
+        ],
+        "Ajax, PBJ.003.MBR.001v5_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1721139539/1.2.1.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1666090430/1.2.1.3.+DIP"
+        ],
+        "Ajax, PBJ.903.MBR.001v0 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2959508880/ks11584",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1666090430/1.2.1.3.+DIP"
+        ],
+        "Ajax, PBD.001.MBR.001v2_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3262218383/PBD.001.MBR.001v2+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3262218383/PBD.001.MBR.001v2+868"
+        ],
+        "Ajax, SOC All v9a": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1925840961/v9",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1925840961/v9"
+        ],
+        "Ajax, SOC.001.SOC.001v9a_Socket Board_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1925939222/SOC.001.SOC.000v9a",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1925939283/SOC.001.SOC.001v9a+BOM+DIP"
+        ],
+        "Ajax, SOC.001.PLG.001v9a_Plug Board_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1926070275/SOC.001.PLG.000v9a",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1925972018/SOC.001.PLG.001v9a+DIP"
+        ],
+        "Ajax, SOC.001.REL.001v9_Relay Board_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1924071700/SOC.001.REL.000v9",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1924137130/SOC.001.REL.001v9+BOM+DIP"
+        ],
+        "Ajax, Socket type G_Full_(8PD)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3692757072/Socket+type+G+Full+8PD",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3692757072/Socket+type+G+Full+8PD"
+        ],
+        "Ajax, Socket type G_Full_(9SA)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3798335493/Socket+type+G+Full+9SA",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3798335493/Socket+type+G+Full+9SA"
+        ],
+        "Ajax, SOG.001.REL.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3691577566/SOG+001+REL+001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3691577566/SOG+001+REL+001v4+DIP"
+        ],
+        "Ajax, SOG.001.PWR.001v7_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3693150213/SOG+001+PWR+001v7+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3693150213/SOG+001+PWR+001v7+DIP"
+        ],
+        "Ajax, TRS.002.601.000v3_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1770815549/1.2.26.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1769603270/1.2.26.3."
+        ],
+        "Ajax, TRS.002.601.000v3 (9XX)_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1770815549/1.2.26.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1769603270/1.2.26.3."
+        ],
+        "Ajax, MTR.001.MBR.000v3_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3498737669/MTR.001.MBR.000v1b+3EOL+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3498737669/MTR.001.MBR.000v1b+3EOL+DIP+868"
+        ],
+        "Ajax, MTR.001.MBR.000v1b (9XX_3EOL)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3594781285/MTR.001.MBR.000v1b+3EOL+DIP+915",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3594781285/MTR.001.MBR.000v1b+3EOL+DIP+915"
+        ],
+        "Ajax, MTR.001.MBR.000v1b (8XX_3EOL)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3498737669/MTR.001.MBR.000v1b+3EOL+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3498737669/MTR.001.MBR.000v1b+3EOL+DIP+868"
+        ],
+        "Ajax, Relay_Full_(868)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768292369/1.2.21.4.+WSD.001.604.000v11+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768226895/1.2.21.3."
+        ],
+        "Ajax, Relay_Full_(915)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768292369/1.2.21.4.+WSD.001.604.000v11+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768226895/1.2.21.3."
+        ],
+        "Ajax, WSD.001.601.000v11_[8XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3723493811/WSD.001.601.000v11+8XX-66A",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3723493811/WSD.001.601.000v11+8XX-66A"
+        ],
+        "Ajax, WSD.001.601.000v11_[9XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/2999944690/ks11850",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1616576664/ks11850"
+        ],
+        "Ajax, WSD.001.604.000v11_Dip": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768292369/1.2.21.4.+WSD.001.604.000v11+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768292369/1.2.21.4.+WSD.001.604.000v11+DIP"
+        ],
+        "Ajax, WallSwitch_Full_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1886290403/WS.001.RFM.001v8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1886323193/WS.001.PWB.001v8+BOM+DIP"
+        ],
+        "Ajax, WallSwitch_Full_915_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1886421563/WS.001.PWB.001v8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1886323193/WS.001.PWB.001v8+BOM+DIP"
+        ],
+        "Ajax, WS.001.RFM.001v8[8XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1886290403/WS.001.RFM.001v8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1884881414/WS.001.RFM.001v8+BOM+DIP"
+        ],
+        "Ajax, WS.001.RFM.001v8 (9XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1886290403/WS.001.RFM.001v8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1884881414/WS.001.RFM.001v8+BOM+DIP"
+        ],
+        "Ajax, HB2.001.P6V.001v1_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1980039779/1.2.35.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1981579954/1.2.35.3"
+        ],
+        "Ajax, ocBridge v.15_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1768161378/1.2.20.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1767965103/1.2.20.3."
+        ],
+        "Ajax, uartBridge v.8_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1769570566/1.2.27.4",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1770815568/1.2.27.3."
+        ],
+        "Ajax, YVH.001.MBR.001_v4_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3303702572/YVH.001.MBR.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3303702572/YVH.001.MBR.001v4+DIP"
+        ],
+        "Ajax, HYB.HB1.MBR.001v2_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1770717360/1.2.29.4.",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1769570677/1.2.29.3."
+        ],
+        "Ajax, VHF.001.MBR.001v5_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3095724546",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3095724546"
+        ],
+        "Ajax, NVR.003.PWB.001v1_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3714088980/NVR.003.PWB.001v1+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3714088980/NVR.003.PWB.001v1+DIP"
+        ],
+        "Ajax, NVR.003.MBR.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3713892412/NVR.003.MBR.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3713892412/NVR.003.MBR.001v4+DIP"
+        ],
+        "Ajax, HBL.001.MBR.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3366813743",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3366813743"
+        ],
+        "Ajax, LSW.001.PWR.001v9[1gang]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3608674563/LSW.001.PWR.001v9+DIP+1+gang",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3608674563/LSW.001.PWR.001v9+DIP+1+gang"
+        ],
+        "Ajax, LSW.001.PWR.001v9[2gang]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3610738933/LSW.001.PWR.001v9+DIP+2gang",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3610738933/LSW.001.PWR.001v9+DIP+2gang"
+        ],
+        "Ajax, LSW.001.PWR.001v9[2way]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3720708279/LSW.001.PWR.001v9+DIP+2way",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3720708279/LSW.001.PWR.001v9+DIP+2way"
+        ],
+        "Ajax, LQC.001.MBR.001v10_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638657451/LQC.001.MBR.001v10+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638657451/LQC.001.MBR.001v10+DIP"
+        ],
+        "Ajax, LQC.001.LED.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638591824/LQC.001.LED.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638591824/LQC.001.LED.001v4+DIP"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP_8ХХ]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638593137/EM4.002.MBR.001v4+FP+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638593137/EM4.002.MBR.001v4+FP+DIP+868"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FPP_8ХХ]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638822628/EM4.002.MBR.001v4+FPP+DIP+868",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3638822628/EM4.002.MBR.001v4+FPP+DIP+868"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP2_SB_9ХХ]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3889202049/EM4.002.MBR.001v4+FP2+SB+9+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3889202049/EM4.002.MBR.001v4+FP2+SB+9+DIP"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FPP2_SB_8ХХ]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3887730518/EM4.002.MBR.001v4+FPP2+SB+8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3887730518/EM4.002.MBR.001v4+FPP2+SB+8+DIP"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP2_SB_8ХХ]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3888152732/EM4.002.MBR.001v4+FP2+SB+8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3888152732/EM4.002.MBR.001v4+FP2+SB+8+DIP"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FPP_9ХХ]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3889725455/EM4.002.MBR.001v4+FPP+DIP+9XX",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3889725455/EM4.002.MBR.001v4+FPP+DIP+9XX"
+        ],
+        "Ajax, EM4.002.MBR.001v4_[FP_9ХХ]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3889234634/EM4.002.MBR.001v4+FP+DIP+9XX",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3889234634/EM4.002.MBR.001v4+FP+DIP+9XX"
+        ],
+        "Ajax, DPF.001.MBR.001_v4 [4R] DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3348693476/DPF.001.MBR.001+v4+DIP+DP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3348693476/DPF.001.MBR.001+v4+DIP+DP"
+        ],
+        "Ajax, DPF.001.MBR.001_v4[4R_DPP] DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3357933735/DPF.001.MBR.001+v4+DIP+DPP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3357933735/DPF.001.MBR.001+v4+DIP+DPP"
+        ],
+        "Ajax, KPF.002.MBR.001v3_(8ХХ)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3675193974/KPF.002.MBR.001v3+8",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3675193974/KPF.002.MBR.001v3+8"
+        ],
+        "Ajax, KPF.002.MBR.001v4_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3860201776/KPF.002.MBR.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3860201776/KPF.002.MBR.001v4+DIP"
+        ],
+        "Ajax, KPF.001.CON.001v2_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3192651804/KPF.001.+ON.001v2",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3192651804/KPF.001.+ON.001v2"
+        ],
+        "Ajax, CPF.001.GP.001v2_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3306061928/CPF.001.GP.001v2+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3306061928/CPF.001.GP.001v2+DIP"
+        ],
+        "Ajax, MPF.001.MBR.001v15_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3636724422/MPF.001.MBR.001v15+DIP+MP+MPP+CP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3636724422/MPF.001.MBR.001v15+DIP+MP+MPP+CP"
+        ],
+        "Ajax, MPF.001.CON.001v13_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3210090987/MPF.001.CON.001v13+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3210090987/MPF.001.CON.001v13+DIP"
+        ],
+        "Ajax, MPF.001.MBR.001v13_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3210117251/MPF.001.MBR.001v13+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3210117251/MPF.001.MBR.001v13+DIP"
+        ],
+        "Ajax, MPF.001.MBR.001v13[MPP]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3236758390/MPF.001.MBR.001v13+DIP+MPP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3236758390/MPF.001.MBR.001v13+DIP+MPP"
+        ],
+        "Ajax, MPF.001.MBR.001v15[MPP]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3641737625/MPF.001.MBR.001v15+DIP+MPP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3641737625/MPF.001.MBR.001v15+DIP+MPP"
+        ],
+        "Ajax, MPF.002.MBR.001v1[MPP]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3844604188/MPF.002.MBR.001v1+MPP+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3844604188/MPF.002.MBR.001v1+MPP+DIP"
+        ],
+        "Ajax, GPF.001.MBR.001v15_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3330474865/GPF.001.MBR.001v15+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3330474865/GPF.001.MBR.001v15+DIP"
+        ],
+        "Ajax, HSF.001.MBR.001v3_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3371304619/HSF.001.MBR.001v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3371304619/HSF.001.MBR.001v3+DIP"
+        ],
+        "Ajax, HSF.001.CON.001v3_868 Mhz_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3215687868/HSF.001.CON.001v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3215687868/HSF.001.CON.001v3+DIP"
+        ],
+        "Ajax, HBF.001.MBR.001v28_(8XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3682533490/HBF.001.MBR.001.v28+DIP+8XX",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3682533490/HBF.001.MBR.001.v28+DIP+8XX"
+        ],
+        "Ajax, HBF.001.MBR.001v26 [26B-8XX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3565322289/HBF.001.MBR.001v26B+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3565322289/HBF.001.MBR.001v26B+DIP"
+        ],
+        "Ajax, WS.001.PWB.001v8_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/1886421563/WS.001.PWB.001v8+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3245310264/WS+001+PWB+001v8"
+        ],
+        "Ajax, WTS.001.MBR.001v3 (8XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3742040280/WTS.001.MBR.001v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3742040280/WTS.001.MBR.001v3+DIP"
+        ],
+        "Ajax, WTS.001.PWB.001v3 (8XX)_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3741221077/WTS.001.PWB.001v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3741221077/WTS.001.PWB.001v3+DIP"
+        ],
+        "Ajax, MTF.001.MBR.001v2_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3879043210",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3879043210"
+        ],
+        "Ajax, MPP.002.MWB.001v5_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3769172267/MPP.002.MWB.001v4+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3769172267/MPP.002.MWB.001v4+DIP"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-AFA]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3708715190/HB2+008+MBR+001v0+9XX+AFA+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3708715190/HB2+008+MBR+001v0+9XX+AFA+DIP"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-AUX]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3708387525/HB2+008+MBR+001v0+9XX+AUX+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3708387525/HB2+008+MBR+001v0+9XX+AUX+DIP"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[8XX-ECG]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3708682459/HB2+008+MBR+001v0+8XX-ECG+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3708682459/HB2+008+MBR+001v0+8XX-ECG+DIP"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-ECG]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3771302427/HB2+008+MBR+001v0+9XX+ECG+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3771302427/HB2+008+MBR+001v0+9XX+ECG+DIP"
+        ],
+        "Ajax, HB2.008.MBR.001v0_[9XX-VFA]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3771957355/HB2+008+MBR+001v0+9XX+VFA+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3771957355/HB2+008+MBR+001v0+9XX+VFA+DIP"
+        ],
+        "Ajax, SGP.001.PWR.001v3_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3773300873/SGP.001.PWR.000v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3773300873/SGP.001.PWR.000v3+DIP"
+        ],
+        "Ajax, Socket Plus (type G)_Full_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3773202611/Socket+Plus+type+G+Full+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3773202611/Socket+Plus+type+G+Full+DIP"
+        ],
+        "Ajax, SOC.001.PLG.000v10_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3841261825/SOC.001.PLG.000v10+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3841261825/SOC.001.PLG.000v10+DIP"
+        ],
+        "Ajax, SGP.001.REL.001v3_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3773464748/SGP.001.REL.001v3+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3773464748/SGP.001.REL.001v3+DIP"
+        ],
+        "Ajax, SSF.001.MBR.001v9_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3463643433/SSF.001.MBR.001v9+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3463643433/SSF.001.MBR.001v9+DIP"
+        ],
+        "Ajax, SSF.001.601.001v6_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3463643484/SSF.001.601.001v6+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3463643484/SSF.001.601.001v6+DIP"
+        ],
+        "Ajax, KPG.001.MBR.001v2_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3791061173/KPG.001.MBR.000v2+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3791061173/KPG.001.MBR.000v2+DIP"
+        ],
+        "Ajax, KPG.001.CON.001v1_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3793485959/KPG.001.CON.000v1+DIP",
+            "https://ajaxsystems.atlassian.net/wiki/spaces/TD/pages/3793485959/KPG.001.CON.000v1+DIP"
+        ],
+        "Ajax, HB2.005.MBR.001v0_[HB2-8XX-66A]_DIP": [
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3810525210",
+            "https://ajaxsystems.atlassian.net/wiki/pages/viewpageattachments.action?pageId=3810525210"
+        ]
+    },
+    "telegram_teg": {
+        "Відповідальний за QCDIP": "@olehsusiak",
+        "Відповідальний за DIP": "@YevgeniyYarmotsyk",
+        "Друщенкова Вероніка Сергіївна": "@VeronikaD124",
+        "Обозюк Сергій Сергійович": "@Sergo_UA",
+        "Мазуренко Ілля Олександрович": "@Illia_Mazurenko",
+        "Дудняк Денис Олексійович": "@DenysDudniak",
+        "Дерикіт Сергій Анатолійович": "@Serhii_Derykit",
+        "Вашека Андрій Володимирович": "@andriy_vasheka",
+        "Гудков Євген Олександрович": "@Hudkov_Yevhen",
+        "Андрієнко Ілля Вадимович": "@Illia_Andrienko",
+        "Лагода Дмитро Анатолійович": "@Dimitr2022",
+        "Стадник Мирослав Анатолійович": "@miroslavstadnik",
+        "Обелець Євгеній Григорович": "@Obelets_Yevhenii",
+        "Пилипець Сергій Валентинович": "@Pylypets_Sergey",
+        "Мірошниченко Євгеній Васильович": "@miroshnychenko_yevhenii",
+        "Яремчук Сергій Павлович": "@serhiy_yaremchuk"
+    }
+}
