@@ -14,16 +14,7 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name(
 httpAuth = credentials.authorize(httplib2.Http())
 service = apiclient.discovery.build('sheets', 'v4', http=httpAuth)
 
-day = 32
 number = 1
-
-def number_writer():
-    global day, number
-    if day != time.localtime().tm_mday:
-        _ = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range='Print!A1:A21000', majorDimension='COLUMNS').execute()
-        number = int(_['values'][-1][-1]) if _['values'][-1][-1] != '№' else 1
-        day = time.localtime().tm_mday
-    return number
 
 def update_number_writer():
     global day, number
@@ -33,8 +24,8 @@ def update_number_writer():
 
 def writer(c_id, Sheet):
     global number
-    value = [[''] for i in range(25)]
-    value[0] = [str(number + 1)]
+    value = [[''] for _ in range(25)]
+    value[0] = [str(update_number_writer() + 1)]
     value[1] = [time.strftime("%d.%m.%Y", time.localtime())]
     value[2] = [time.strftime("%H:%M", time.localtime())]
     value[3] = [c_id['project']]
@@ -76,7 +67,7 @@ def writer(c_id, Sheet):
         body={
             "valueInputOption": "USER_ENTERED",
             "data": [
-                {"range": f'Print!A{update_number_writer() + 1}:Y21000',
+                {"range": f'Print!A{number + 1}:Y21000',
                  "majorDimension": "COLUMNS",
                  "values": value}
             ]

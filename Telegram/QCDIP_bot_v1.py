@@ -1,5 +1,4 @@
 # coding=utf-8
-import pprint
 
 from aiogram import Dispatcher, Bot, types, executor
 
@@ -30,24 +29,12 @@ async def UpdateSheet(message: types.Message):
     else:
         pass
 
-@dp.message_handler(commands=['counterrowsheet'])
-async def Update_number_counter_Sheet(message: types.Message):
-    if message.chat.id == message.from_user.id:
-        if str(message.from_user.id) in Sheet['access_id']:
-            writer.number = writer.update_number_writer()
-            await bot.send_message(chat_id=message.chat.id, text='Лічильник рядків оновлено. Щоб зробити запис натисніть  /start')
-        else:
-            await bot.send_message(message.chat.id, 'Нажаль, у вас немає доступу до користування ботом!😢')
-    else:
-        pass
-
 @dp.message_handler(commands=['start'])
 async def start(message: types.Message):
     global Reply_message, Sheet
     m_id = Inline_Keyboard.func_message(message)[0]
     if message.chat.id == message.from_user.id:
         Sheet = checker()
-        writer.number_writer()
         if str(message.from_user.id) in Sheet['access_id']:
             Reply_message[m_id] = dict()
             Reply_message[m_id]['text'] = ''
@@ -163,11 +150,11 @@ async def device_callback(call: types.CallbackQuery):
             txt_defect = '✅Пост пересланий в чат QC THT\n✅Данні успішно записані в таблицю.\n\nЩоб зробити новий запис натисніть  /start'
             if ('med' in Reply_message[c_id]) and ('Не_монтажник' not in Reply_message[c_id]['dip']):
                 await bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text=txt_defect)
-                await bot.send_media_group(chat_id=Chat_test, media=Reply_message[c_id]['med'])
+                await bot.send_media_group(chat_id=Chat_work, media=Reply_message[c_id]['med'])
             elif ('non_photo' in Reply_message[c_id]) and ('Не_монтажник' not in Reply_message[c_id]['dip']):
                 post = assembler_message.assembling_finished(Reply_message[c_id], Sheet)
                 await bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text=txt_defect)
-                await bot.send_message(chat_id=Chat_test, text=post)
+                await bot.send_message(chat_id=Chat_work, text=post)
             else:
                 await bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text=txt_non_defect)
             if ('blocked' in Reply_message[c_id]) and (Reply_message[c_id]['blocked']):
@@ -261,7 +248,7 @@ async def device_callback(call: types.CallbackQuery):
             button.add(types.InlineKeyboardButton(text='⬅️ Назад', callback_data='blocked'))
             await bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text='Опишіть причину блокування '
                                                                                                     'партії:', reply_markup=button)
-    except (KeyError, IndexError, AttributeError):
+    except ZeroDivisionError:  #(KeyError, IndexError, AttributeError):
         pass
 
 
